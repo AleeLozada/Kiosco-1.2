@@ -1,0 +1,36 @@
+{
+  "group_id": "9f7ff323-f81b-493e-b152-6b14ea9e6a72",
+  "states": [
+    {
+      "character": {
+        "id": "d19a6ce1-a2c9-4190-94e6-968857bf6b37",
+        "name": "Idle",
+        "prompt": "A normal 20-year-old male university student from the year 2000. He has messy dark brown hair, looking healthy and awake. Wearing a vintage green jacket, loose blue jeans, and retro sneakers.",
+        "size": {
+          "width": 48,
+          "height": 48
+        },
+        "template_id": "mannequin",
+        "directions": 8,
+        "view": "high top-down",
+        "created_at": "2026-08-13T19:40:50.446542+00:00"
+      },
+      "folder": "Idle",
+      "frames": {
+        "rotations": {
+          "south": "Idle/rotations/south.png",
+          "south-east": "Idle/rotations/south-east.png",
+          "east": "Idle/rotations/east.png",
+          "north-east": "Idle/rotations/north-east.png",
+          "north": "Idle/rotations/north.png",
+          "north-west": "Idle/rotations/north-west.png",
+          "west": "Idle/rotations/west.png",
+          "south-west": "Idle/rotations/south-west.png"
+        },
+        "animations": {}
+      }
+    }
+  ],
+  "export_version": "3.1",
+  "export_date": "2026-08-13T19:43:48.936209"
+}
